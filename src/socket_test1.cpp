@@ -1,6 +1,6 @@
 //socket create connect test in windows
 #include <iostream>
-#include "inc/socket_test1.h"
+#include "../inc/socket_test1.h"
 
 using namespace boost;
 
